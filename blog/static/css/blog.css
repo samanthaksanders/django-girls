@@ -42,7 +42,6 @@ a:hover {
 .site-container {
 	margin: 1.5rem;
 	background: #fff;
-	height: calc(100vh - 3rem);
 }
 
 .site-content {
